@@ -8,5 +8,7 @@ mjlmb-z/mjlmb-z is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,figma&theme=dark)](https://skills.thijs.gg)
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mjlmb-z&langs_count=5&theme=midnight-purple)]()
 
