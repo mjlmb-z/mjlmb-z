@@ -1,3 +1,5 @@
+![This is an image](https://github.com/mjlmb-z/mjlmb-z/blob/main/header.png)
+
 - 👋 Hi, I’m @mjlmb-z
 - 👀 I’m interested in UI/UX, web developement and design
 - 🌱 I’m currently learning c, c++, java, python, UI/UX
