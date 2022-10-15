@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m @mjlmb-z
 - 👀 I’m interested in UI/UX, web developement and design
-- 🌱 I’m currently learning c, c++, java, python, UI/UX
 
 <!---
 mjlmb-z/mjlmb-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
