@@ -1,3 +1,5 @@
+# Hi there, [<img src="./wave.gif " width="50"/>]() 
+
 ![This is an image](https://github.com/mjlmb-z/mjlmb-z/blob/main/header.png)
 
 - 👋 Hi, I’m @mjlmb-z
