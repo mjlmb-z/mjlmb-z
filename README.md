@@ -1,4 +1,4 @@
-# Hi there, [<img src="./wave.gif " width="50"/>]() 
+# Hi there, [<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>]()
 
 ![This is an image](https://github.com/mjlmb-z/mjlmb-z/blob/main/header.png)
 
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🎧 Spotify Now Playing
 
-[![Spotify Profile](https://spotify-github-profile.vercel.app/api/view?uid=31o3ptc26cyaveekolsb7epauy54&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31o3ptc26cyaveekolsb7epauy54)
 
 ---
 
