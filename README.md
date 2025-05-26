@@ -3,27 +3,15 @@
 ![This is an image](https://github.com/mjlmb-z/mjlmb-z/blob/main/header.png)
 
 - 👋 Hi, I’m @mjlmb-z
-- 👀 I’m interested in UI/UX, web developement and design
+- 🐈‍⬛ En route to navigating the dialectic between logic and creativity
 
 ##
 
-<!---
-mjlmb-z/mjlmb-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ### 🌟 Experiences in:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,figma&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,figma,blender,html,css,cpp,processing,codepen,p5js&theme=dark)](https://skillicons.dev)
 
 ---
-
-### 🎧 Spotify Now Playing
-
-[![Spotify](https://img.shields.io/badge/Spotify-Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31o3ptc26cyaveekolsb7epauy54)
-
----
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mjlmb-z&color=blueviolet" alt="Profile views counter" />
