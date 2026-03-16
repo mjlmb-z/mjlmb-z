@@ -6,9 +6,9 @@
 
 <!-- ###  . ..........................꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂.......................... . -->
 <br><br>
-⋆.𐙚 ̊... .... .. ✿˖˚ ༘𐙚╰──╮<img src="https://i.pinimg.com/originals/20/c6/09/20c609f194dde4421224b94e9d3d5c6c.gif" width=77> ╭──╯ . . . . .𓍯𓂃𓏧♡ꫂ᭪݁𓇼 <br><br>
+⋆.𐙚 ̊... .... .. ✿˖˚ ༘𐙚╰──╮<img src="https://i.pinimg.com/originals/20/c6/09/20c609f194dde4421224b94e9d3d5c6c.gif" width=63> ╭──╯ . . . . .𓍯𓂃𓏧♡ꫂ᭪݁𓇼 <br><br>
+
 <img src="https://clipground.com/images/aesthetic-gif-png-18.gif" width=333>
-<img src="" width=100><br>
 
 
 
@@ -19,6 +19,8 @@
 ![Hello](https://img.shields.io/badge/Hello-purple)
 ![Viewer](https://img.shields.io/badge/Viewer-violet)
 ![✰](https://img.shields.io/badge/🌸-white) 𐔌 . .՞𐦯 𓇢𓆸 Creative Technologist ཐི༏ཋྀ
+
+<img src="https://media.tenor.com/iTm8wqNUZMsAAAAC/divider.gif" width=100%>
 
 
 [![Behance](https://img.shields.io/badge/Behance%20Profile-mintgreen?style=plastic)](https://www.behance.net/lilyhemmings1)
@@ -37,10 +39,9 @@ LESSONS:
 
 -->
 
-#
 <!--/ᐠ > ˕ <マ⛧°. ⋆༺☾𖤓༻⋆. °⛧𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊❀𖤣𖥧── ⋆⋅𖤓⋅⋆ ──⋆｡ﾟ☁︎｡⋆𓂃 ོ☼𓂃-->
 
-### ✿˖˚ ༘𐙚~𓍊𓋼𓍊𓋼𓍊 <mark> Witchcraft knowledge in: </mark> 𓍊𓋼𓍊𓋼𓍊 ༄.° 
+### ▷  ✿˖˚ ༘𐙚~𓍊𓋼𓍊𓋼𓍊 <mark> Witchcraft knowledge in: </mark> 𓍊𓋼𓍊𓋼𓍊 ༄.° 
 <br>
   
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,figma,blender,html,css,cpp,processing,codepen,p5js,python,latex,xd&theme=dark)](https://skillicons.dev)<br>
@@ -50,6 +51,5 @@ LESSONS:
 <p align="left">
   ·𓆞𓆟𓆝·° <img src="https://komarev.com/ghpvc/?username=mjlmb-z&color=blueviolet" alt="Profile views counter" /> °·𓆝𓆟𓆞·
 </p>
-
 
 #
