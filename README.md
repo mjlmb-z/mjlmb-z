@@ -15,7 +15,7 @@
 ### Hi, I’m @mjlmb-z
 
 `🐈‍⬛ En route to navigating the dialectic between tech and creativity`<br>
-݁... . . .... .... . . . . ... .. .˖Ი𐑼⋆ <br>
+݁... . . .... .. ... . . . . ... .. .˖Ი𐑼⋆ <br>
 ![Hello](https://img.shields.io/badge/Hello-purple)
 ![Viewer](https://img.shields.io/badge/Viewer-violet)
 ![✰](https://img.shields.io/badge/🌸-white) 𐔌 . .՞𐦯 𓇢𓆸 Creative Technologist ཐི༏ཋྀ
