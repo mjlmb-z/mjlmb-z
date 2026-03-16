@@ -15,7 +15,7 @@
 ### Hi, I’m @mjlmb-z
 
 `🐈‍⬛ En route to navigating the dialectic between tech and creativity`<br>
-݁... . . .... .... . . . . ... ..˖Ი𐑼⋆ <br>
+݁... . . .... .... . . . . ... .. .˖Ი𐑼⋆ <br>
 ![Hello](https://img.shields.io/badge/Hello-purple)
 ![Viewer](https://img.shields.io/badge/Viewer-violet)
 ![✰](https://img.shields.io/badge/🌸-white) 𐔌 . .՞𐦯 𓇢𓆸 Creative Technologist ཐི༏ཋྀ
@@ -27,7 +27,7 @@
 [![ig](https://img.shields.io/badge/Instagram-mintgreen?style=plastic)](https://www.instagram.com/oad.ris)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-success?style=plastic)](www.linkedin.com/in/likla-s)
 
-  Ი𐑼               .   <!--𓃠⨾༊-->·˚⋆｡ﾟ☁︎ ⋆｡ ﾟ☾｡⋆ִ🫧⋆｡ﾟ☁︎｡⋆𓂃 ོ☼𓂃. ݁₊ ⊹ . ݁˖ . ݁<br>
+ .    Ი𐑼               .   <!--𓃠⨾༊-->·˚⋆｡ﾟ☁︎ ⋆｡ ﾟ☾｡⋆ִ🫧⋆｡ﾟ☁︎｡⋆𓂃 ོ☼𓂃. ݁₊ ⊹ . ݁˖ . ݁<br>
 ![emo](https://img.shields.io/badge/˙𐃷˙-%238A2BE2)![I](https://img.shields.io/badge/𖤐-indigo)![B](https://img.shields.io/badge/𐔌՞.ˬ.ܸ՞𐦯-blue)![G](https://img.shields.io/badge/☁︎-green)![Y](https://img.shields.io/badge/₍ᐢ..ᐢ₎₊˚⊹♡-yellow)![O](https://img.shields.io/badge/⏾-orange)![R](https://img.shields.io/badge/₍^..^₎⟆-red)<br>
 
 <!--
