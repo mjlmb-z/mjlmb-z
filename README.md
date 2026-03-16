@@ -48,7 +48,7 @@ LESSONS:
 <br><br>
 
 <p align="left">
-  ·𓆞𓆟𓆝·°<img src="https://komarev.com/ghpvc/?username=mjlmb-z&color=blueviolet" alt="Profile views counter" /> °·𓆝𓆟𓆞·
+  ·𓆞𓆟𓆝·° <img src="https://komarev.com/ghpvc/?username=mjlmb-z&color=blueviolet" alt="Profile views counter" /> °·𓆝𓆟𓆞·
 </p>
 
 
