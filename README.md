@@ -41,5 +41,5 @@ Reach Out: [![Behance](https://img.shields.io/badge/Behance%20Profile-mintgreen?
 <br><br>
 
 <p align="left">
-  ·𓆞𓆟𓆝·° <img src="https://komarev.com/ghpvc/?username=mjlmb-z&color=blueviolet" alt="Profile views counter" /> °·𓆝𓆟𓆞·
+  ·𓆞𓆟𓆝·° <img src="https://komarev.com/ghpvc/?username=mjlmb-z&color=blueviolet" alt="Profile views counter"/> °·𓆝𓆟𓆞·
 </p> <br>
