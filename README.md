@@ -6,9 +6,9 @@
 
 <!-- ###  . ..........................꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂.......................... . -->
 <br><br>
-⋆.𐙚 ̊... .... .. ✿˖˚ ༘𐙚╰──╮<img src="https://i.pinimg.com/originals/20/c6/09/20c609f194dde4421224b94e9d3d5c6c.gif" width=63> ╭──╯ . . . . .𓍯𓂃𓏧♡ꫂ᭪݁𓇼 <br><br>
+⋆.𐙚 ̊... .... .. ✿˖˚ ༘𐙚╰──╮<img src="https://media.tenor.com/aC0ANHqCCo4AAAAi/cat-spin.gif" width=63> ╭──╯ . . . . .𓍯𓂃𓏧♡ꫂ᭪݁𓇼 <br><br>
 
-<img src="https://clipground.com/images/aesthetic-gif-png-18.gif" width=333>
+<img src="https://gifdb.com/images/high/espeon-uses-elevating-power-to-things-8b719jd5g6364as8.gif" width=333>
 
 
 
@@ -41,10 +41,10 @@ LESSONS:
 
 <!--/ᐠ > ˕ <マ⛧°. ⋆༺☾𖤓༻⋆. °⛧𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊❀𖤣𖥧── ⋆⋅𖤓⋅⋆ ──⋆｡ﾟ☁︎｡⋆𓂃 ོ☼𓂃-->
 
-### ▷  ✿˖˚ ༘𐙚~𓍊𓋼𓍊𓋼𓍊 <mark> Witchcraft knowledge in: </mark> 𓍊𓋼𓍊𓋼𓍊 ༄.° 
+### <img src="https://i.gifer.com/origin/f3/f367083443fba6e9344555f635e1ba4a_w200.gif" width=63> ▷  ✿˖˚ ༘𐙚~𓍊𓋼𓍊𓋼𓍊 <mark> Witchcraft knowledge in: </mark> 𓍊𓋼𓍊𓋼𓍊 ༄.°
 <br>
   
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,figma,blender,html,css,cpp,processing,codepen,p5js,python,latex,xd&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,figma,blender,html,css,cpp,processing,codepen,p5js,python,latex,xd,vscode,godot&theme=dark)](https://skillicons.dev)<br>
 
 <br><br>
 
